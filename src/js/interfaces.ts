@@ -1,10 +1,10 @@
 export interface ItemState {
     item: {
-        title: string,
-        message: string
+        title: string;
+        message: string;
     }
 }
 
 export interface ItemsState {
-    items: unknown[]
+    items: unknown[];
 }

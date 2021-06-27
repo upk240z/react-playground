@@ -1,5 +1,4 @@
 import React from 'react';
-import Item from './item';
 import ItemForm from './item-form';
 import Items from "./items";
 import {ItemsState} from "./interfaces";

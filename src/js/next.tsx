@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Clock from "./clock";
 
 ReactDOM.render(
-    <p>Hello Next Page!!</p>,
+    <div>
+        <Clock/>
+    </div>,
     document.getElementById('root')
 );
